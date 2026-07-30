@@ -1,0 +1,29 @@
+{
+  "$schema": "../../../.github/schemas/extension.schema.json",
+  "id": "n0i0c0k.power-translator",
+  "title": "PowerTranslator",
+  "shortDescription": "Translate text in Command Palette with clipboard shortcuts, history, and read-aloud support.",
+  "description": "PowerTranslator is a translation extension for Windows Command Palette. It lets you translate text directly in the palette, quickly translate clipboard contents, target specific languages, view search suggestions, and revisit translation history. It also supports reading Chinese and English results aloud, a secondary translation target, and multiple translation engines including Youdao and DeepL.",
+  "author": {
+    "name": "N0I0C0K",
+    "url": "https://github.com/N0I0C0K"
+  },
+  "icon": "icon.png",
+  "homepage": "https://github.com/N0I0C0K/PowerTranslator",
+  "tags": [
+    "translation",
+    "languages",
+    "clipboard",
+    "tts"
+  ],
+  "categories": [
+    "productivity",
+    "utilities-and-tools"
+  ],
+  "installSources": [
+    {
+      "type": "url",
+      "uri": "https://github.com/N0I0C0K/PowerTranslator/releases/latest"
+    }
+  ]
+}
